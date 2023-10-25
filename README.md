@@ -3,15 +3,9 @@
 </p>
 
 <p align="center">
-<a href="" target="blank">
-<img alt="GitHub deployments" src="https://img.shields.io/github/deployments/shahriarshafin/ubot/production?label=vercel&logo=vercel&logoColor=vercel&style=flat-square">
-</a>
-<a href="https://github.com/shahriarshafin/ubot/blob/master/LICENSE" target="blank">
 <img src="https://img.shields.io/badge/License-MIT-blue?style=flat-square" alt="licence" />
 </a>
-<a href="https://github.com/shahriarshafin/ubot/commits/master" target="blank">
-<img alt="GitHub commit merge status" src="https://img.shields.io/github/commit-status/shahriarshafin/ubot/master/efc47576d96123509711d275c6fe613a3bfe4b94?style=flat-square"/>
-</a>
+
 </p>
 
 <br/>
@@ -31,7 +25,7 @@ To solve this problem we developed a chatbot, where they can chat with an AI-pow
 1. Clone the repository
 
 ```bash
-https://github.com/shahriarshafin/ubot.git
+https://github.com/sportsman701/ubot-react.git
 ```
 
 2. Change the working directory
