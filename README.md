@@ -3,8 +3,6 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/License-MIT-blue?style=flat-square" alt="licence" />
-</a>
 
 </p>
 
